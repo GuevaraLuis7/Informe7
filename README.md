@@ -54,6 +54,8 @@ Tabla I. Materiales y Equipo
 
 Figura 1.
 
+<img src="Imagenes/fig2.jpg">
+
 Figura 2.
 
 ## Resultados
