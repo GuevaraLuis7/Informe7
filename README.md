@@ -64,13 +64,13 @@ Tabla II. Resultados obtenidos
 
 ***Análisis de los resultados***
 
-***- ¿Cómo se comportan la bobina y el capacitor en corriente continua (ceroHz)?***
+- ***¿Cómo se comportan la bobina y el capacitor en corriente continua (ceroHz)?***
 
-***- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?***
+- ***¿Cómo se comportan la bobina y el capacitor en corriente alterna?***
 
-***- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?***
+- ***¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?***
 
-***- ¿Qué son los valores eficaces de voltaje y corriente?***
+- ***¿Qué son los valores eficaces de voltaje y corriente?***
 
 ## Video
 
