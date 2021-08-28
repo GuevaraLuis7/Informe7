@@ -28,6 +28,8 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 ## Marco teórico
 
+<img src="Imagenes/inductorycapacitancia.jpg">
+
 ## Explicación del procedimiento
 
 ***Material y equipo requerido***
