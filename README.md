@@ -184,6 +184,10 @@ Figura 2.
 
 *Tabla II. Resultados obtenidos con el Osciloscopio*
 
+<img src="Imagenes/tabla3.jpg">
+
+*Tabla II. Resultados obtenidos del voltaje con el Multímetro*
+
 ***Análisis de los resultados***
 
 - ***¿Cómo se comportan la bobina y el capacitor en corriente continua (ceroHz)?***
@@ -208,4 +212,9 @@ Este es el valor en el que la corriente continua tendrá la misma potencia que l
 
 ## Bibliografía
 
-Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 11.4: "Valor efectivo de una forma de onda periódica".
+Gómez, A. J. (Abril de 2018). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf
+
+J. Francisco, d A. Chacon, "Medidas Eléctricas para Ingenieros," Reverte, México, 2007
+
+Dorf, Richard C; Svoboda, James A., “Circuitos Eléctricos”, Novena edición, 2015.
+
