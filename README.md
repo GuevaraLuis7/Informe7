@@ -60,6 +60,36 @@ Figura 1.
 
 <img src="Imagenes/fig2.jpg">
 
+Armamos el circuito de la figura 1
+
+<img src="Imagenes/circ1.jpeg">
+
+Tomamos las medidas para:
+
+- 0 Hz
+
+<img src="Imagenes/circ1_0hZ.jpeg">
+
+- 10 Hz
+- 
+<img src="Imagenes/circ1_10hZ.jpeg">
+
+- 50 Hz
+
+<img src="Imagenes/circ1_50hZ.jpeg">
+
+- 100 Hz
+- 
+<img src="Imagenes/circ1_100hZ.jpeg">
+
+- 500 Hz
+
+<img src="Imagenes/circ1_500hZ.jpeg">
+
+- 1000 Hz
+
+<img src="Imagenes/circ1_1000hZ.jpeg">
+
 Figura 2.
 
 ## Resultados
