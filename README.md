@@ -104,7 +104,7 @@ Figura 2.
 
 - 0 Hz
 
-
+<img src="Imagenes/circ1_0hZ1.jpg">
 
 - 10 Hz
 
