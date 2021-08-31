@@ -183,3 +183,5 @@ Este es el valor en el que la corriente continua tendrá la misma potencia que l
 ## Anexos
 
 ## Bibliografía
+
+Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 11.4: "Valor efectivo de una forma de onda periódica".
