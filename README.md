@@ -242,7 +242,7 @@ Figura 2.
 
 <img src="Imagenes/tabla4.jpg">
 
-*Tabla III. Resultados obtenidos del amperaje con el Multímetro*
+*Tabla IV. Resultados obtenidos del amperaje con el Multímetro*
 
 ***Análisis de los resultados***
 
