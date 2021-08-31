@@ -164,6 +164,8 @@ Figura 2.
 
 - ***¿Cómo se comportan la bobina y el capacitor en corriente alterna?***
 
+La bobina y el capacitor se oponen inmediato del voltaje y la corriente, generando un voltaje o corriente para producir dicho efecto.
+
 - ***¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?***
 
 - ***¿Qué son los valores eficaces de voltaje y corriente?***
@@ -171,8 +173,6 @@ Figura 2.
 ## Video
 
 ## Conclusiones
-
-- La bobina y el capacitor se oponen inmediato del voltaje y la corriente, generando un voltaje o corriente para producir dicho efecto.
 
 - El osciloscopio utilizado muestra la forma de onda sinuosa de una corriente alterna y las fuentes nos permiten alternar entre voltajes pico, pico-pico y rms.
 
