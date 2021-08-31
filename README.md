@@ -116,6 +116,32 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 <img src="Imagenes/circ1mult1000hz.jpeg">
 
+**Midiendo el amperaje con el Multímetro:**
+
+- 0 Hz
+
+<img src="Imagenes/circ1ampe0hz.jpeg">
+
+- 10 Hz
+
+<img src="Imagenes/circ1ampe10hz.jpeg">
+
+- 50 Hz
+
+<img src="Imagenes/circ1ampe50hz.jpeg">
+
+- 100 Hz
+
+<img src="Imagenes/circ1ampe100hz.jpeg">
+
+- 500 Hz
+
+<img src="Imagenes/circ1ampe500hz.jpeg">
+
+- 1000 Hz
+
+<img src="Imagenes/circ1ampe1000hz.jpeg">
+
 **USANDO LA SIGUIENTE FIGURA:**
 
 <img src="Imagenes/fig2.jpg">
