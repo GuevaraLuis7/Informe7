@@ -118,7 +118,7 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 **USANDO LA SIGUIENTE FIGURA:**
 
-<img src="Imagenes/fig2.jpeg">
+<img src="Imagenes/fig2.jpg">
 
 Figura 2.
 
