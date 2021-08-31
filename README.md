@@ -94,31 +94,31 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 - 0 Hz
 
-<img src="Imagenes/circ1mult0hz.jpg">
+<img src="Imagenes/circ1mult0hz.jpeg">
 
 - 10 Hz
 
-<img src="Imagenes/circ1mult10hz.jpg">
+<img src="Imagenes/circ1mult10hz.jpeg">
 
 - 50 Hz
 
-<img src="Imagenes/circ1mult50hz.jpg">
+<img src="Imagenes/circ1mult50hz.jpeg">
 
 - 100 Hz
 
-<img src="Imagenes/circ1mult100hz.jpg">
+<img src="Imagenes/circ1mult100hz.jpeg">
 
 - 500 Hz
 
-<img src="Imagenes/circ1mult500hz.jpg">
+<img src="Imagenes/circ1mult500hz.jpeg">
 
 - 1000 Hz
 
-<img src="Imagenes/circ1mult1000hz.jpg">
+<img src="Imagenes/circ1mult1000hz.jpeg">
 
 **USANDO LA SIGUIENTE FIGURA:**
 
-<img src="Imagenes/fig2.jpg">
+<img src="Imagenes/fig2.jpeg">
 
 Figura 2.
 
