@@ -146,11 +146,11 @@ Figura 2.
 
 ## Conclusiones
 
-La bobina y el capacitor se oponen inmediato del voltaje y la corriente, generando un voltaje o corriente para producir dicho efecto.
+- La bobina y el capacitor se oponen inmediato del voltaje y la corriente, generando un voltaje o corriente para producir dicho efecto.
 
-El osciloscopio utilizado muestra la forma de onda sinuosa de una corriente alterna y las fuentes nos permiten alternar entre voltajes pico, pico-pico y rms.
+- El osciloscopio utilizado muestra la forma de onda sinuosa de una corriente alterna y las fuentes nos permiten alternar entre voltajes pico, pico-pico y rms.
 
-Las bobinas y capacitores tienen la misma cantidad de inductancia y capacitancia permitiendo así conectarse en paralelo.
+- Las bobinas y capacitores tienen la misma cantidad de inductancia y capacitancia permitiendo así conectarse en paralelo.
 
 ## Anexos
 
