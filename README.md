@@ -268,6 +268,8 @@ Este es el valor en el que la corriente continua tendrá la misma potencia que l
 
 - El osciloscopio utilizado muestra la forma de onda sinuosa de una corriente alterna y las fuentes nos permiten alternar entre voltajes pico, pico-pico y rms.
 
+- Esta práctica fue de gran ayuda puesto que mejoramos nuestros conocimientos sobre los inductores y los capacitores, además que mediante la simulación se aprendio más del uso de este tipo de aparatos electronicos que llegaremos a usar en nuestra carrera.
+
 ## Bibliografía
 
 Gómez, A. J. (Abril de 2018). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf
