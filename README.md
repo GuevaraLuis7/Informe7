@@ -186,7 +186,7 @@ Figura 2.
 
 <img src="Imagenes/tabla3.jpg">
 
-*Tabla II. Resultados obtenidos del voltaje con el Multímetro*
+*Tabla III. Resultados obtenidos del voltaje con el Multímetro*
 
 ***Análisis de los resultados***
 
