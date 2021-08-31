@@ -36,7 +36,7 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 <img src="Imagenes/tabla1.jpg">
 
-Tabla I. Materiales y Equipo
+*Tabla I. Materiales y Equipo*
 
 ***Pasos a seguir***
 
@@ -54,15 +54,17 @@ Tabla I. Materiales y Equipo
 
 ***Procedimiento***
 
+**USANDO LA SIGUIENTE FIGURA:**
+
 <img src="Imagenes/fig1.jpg">
 
-Figura 1.
+***Figura 1.***
 
-Armamos el circuito de la figura 1:
+**Armamos el circuito de la figura 1:**
 
 <img src="Imagenes/circ1.jpeg">
 
-Tomamos las medidas para:
+**Tomamos las medidas para:**
 
 - 0 Hz
 
@@ -88,13 +90,45 @@ Tomamos las medidas para:
 
 <img src="Imagenes/circ1_1000hZ.jpeg">
 
+**USANDO LA SIGUIENTE FIGURA:**
+
 <img src="Imagenes/fig2.jpg">
 
 Figura 2.
 
+**Armamos el circuito de la figura 2:**
+
+<img src="Imagenes/circ2.jpeg">
+
+**Tomamos las medidas para:**
+
+- 0 Hz
+
+<img src="Imagenes/circ2_0hZ.jpeg">
+
+- 10 Hz
+
+<img src="Imagenes/circ2_10hZ.jpeg">
+
+- 50 Hz
+
+<img src="Imagenes/circ2_50hZ.jpeg">
+
+- 100 Hz
+
+<img src="Imagenes/circ2_100hZ1.jpeg">
+
+- 500 Hz
+
+<img src="Imagenes/circ2_500hZ.jpeg">
+
+- 1000 Hz
+
+<img src="Imagenes/circ2_1000hZ.jpeg">
+
 ## Resultados
 
-Tabla II. Resultados obtenidos
+*Tabla II. Resultados obtenidos con el Osciloscopio*
 
 ***Análisis de los resultados***
 
