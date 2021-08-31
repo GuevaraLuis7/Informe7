@@ -224,6 +224,8 @@ La bobina y el capacitor se oponen inmediato del voltaje y la corriente, generan
 
 - ***¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?***
 
+Deben tener la misma cantidad de inductancia y capacitancia permitiendo así conectarse en paralelo, de otro modo generarian fuentes que violan las leyes de Kirchhoff
+
 - ***¿Qué son los valores eficaces de voltaje y corriente?***
 
 Este es el valor en el que la corriente continua tendrá la misma potencia que la corriente alterna anterior.
@@ -233,8 +235,6 @@ Este es el valor en el que la corriente continua tendrá la misma potencia que l
 ## Conclusiones
 
 - El osciloscopio utilizado muestra la forma de onda sinuosa de una corriente alterna y las fuentes nos permiten alternar entre voltajes pico, pico-pico y rms.
-
-- Las bobinas y capacitores tienen la misma cantidad de inductancia y capacitancia permitiendo así conectarse en paralelo.
 
 ## Bibliografía
 
