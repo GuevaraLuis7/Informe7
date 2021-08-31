@@ -58,9 +58,7 @@ Tabla I. Materiales y Equipo
 
 Figura 1.
 
-<img src="Imagenes/fig2.jpg">
-
-Armamos el circuito de la figura 1
+Armamos el circuito de la figura 1:
 
 <img src="Imagenes/circ1.jpeg">
 
@@ -89,6 +87,8 @@ Tomamos las medidas para:
 - 1000 Hz
 
 <img src="Imagenes/circ1_1000hZ.jpeg">
+
+<img src="Imagenes/fig2.jpg">
 
 Figura 2.
 
