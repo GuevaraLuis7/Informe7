@@ -80,7 +80,7 @@ Tomamos las medidas para:
 
 - 100 Hz
 
-<img src="Imagenes/circ1_100hZ.jpeg">
+<img src="Imagenes/circ1_100hZ1.jpeg">
 
 - 500 Hz
 
