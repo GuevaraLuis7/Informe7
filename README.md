@@ -152,6 +152,32 @@ Figura 2.
 
 <img src="Imagenes/circ2_1000hZ.jpeg">
 
+**Midiendo el voltaje con el Multímetro:**
+
+- 0 Hz
+
+<img src="Imagenes/circ2mult0hz.jpeg">
+
+- 10 Hz
+
+<img src="Imagenes/circ2mult10hz.jpeg">
+
+- 50 Hz
+
+<img src="Imagenes/circ2mult50hz.jpeg">
+
+- 100 Hz
+
+<img src="Imagenes/circ2mult100hz.jpeg">
+
+- 500 Hz
+
+<img src="Imagenes/circ2mult500hz.jpeg">
+
+- 1000 Hz
+
+<img src="Imagenes/circ2mult1000hz.jpeg">
+
 ## Resultados
 
 <img src="Imagenes/tabla2.jpg">
