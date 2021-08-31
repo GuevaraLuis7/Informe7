@@ -270,6 +270,8 @@ Este es el valor en el que la corriente continua tendrá la misma potencia que l
 
 - Esta práctica fue de gran ayuda puesto que mejoramos nuestros conocimientos sobre los inductores y los capacitores, además que mediante la simulación se aprendio más del uso de este tipo de aparatos electronicos que llegaremos a usar en nuestra carrera.
 
+- El analisís que se hizo de las graficas fue de gran ayuda para reforzar lo aprendido durante el transcurso de las clases y de esta manera estar mejor preparados para prácticas con mayor complejidad.
+
 ## Bibliografía
 
 Gómez, A. J. (Abril de 2018). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf
