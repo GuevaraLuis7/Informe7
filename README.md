@@ -170,6 +170,8 @@ La bobina y el capacitor se oponen inmediato del voltaje y la corriente, generan
 
 - ***¿Qué son los valores eficaces de voltaje y corriente?***
 
+Este es el valor en el que la corriente continua tendrá la misma potencia que la corriente alterna anterior.
+
 ## Video
 
 ## Conclusiones
