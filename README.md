@@ -90,6 +90,32 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 <img src="Imagenes/circ1_1000hZ.jpeg">
 
+**Midiendo el voltaje con el Multímetro:**
+
+- 0 Hz
+
+<img src="Imagenes/circ1mult0hz.jpg">
+
+- 10 Hz
+
+<img src="Imagenes/circ1mult10hz.jpg">
+
+- 50 Hz
+
+<img src="Imagenes/circ1mult50hz.jpg">
+
+- 100 Hz
+
+<img src="Imagenes/circ1mult100hz.jpg">
+
+- 500 Hz
+
+<img src="Imagenes/circ1mult500hz.jpg">
+
+- 1000 Hz
+
+<img src="Imagenes/circ1mult1000hz.jpg">
+
 **USANDO LA SIGUIENTE FIGURA:**
 
 <img src="Imagenes/fig2.jpg">
