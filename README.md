@@ -128,6 +128,8 @@ Figura 2.
 
 ## Resultados
 
+<img src="Imagenes/tabla2.jpg">
+
 *Tabla II. Resultados obtenidos con el Osciloscopio*
 
 ***Análisis de los resultados***
