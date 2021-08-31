@@ -264,6 +264,8 @@ Este es el valor en el que la corriente continua tendrá la misma potencia que l
 
 ## Video
 
+https://youtu.be/cLgYYSjj0SA
+
 ## Conclusiones
 
 - El osciloscopio utilizado muestra la forma de onda sinuosa de una corriente alterna y las fuentes nos permiten alternar entre voltajes pico, pico-pico y rms.
