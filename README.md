@@ -204,6 +204,32 @@ Figura 2.
 
 <img src="Imagenes/circ2mult1000hz.jpeg">
 
+**Midiendo el amperaje con el Multímetro:**
+
+- 0 Hz
+
+<img src="Imagenes/circ2ampe0hz.jpeg">
+
+- 10 Hz
+
+<img src="Imagenes/circ2ampe10hz.jpeg">
+
+- 50 Hz
+
+<img src="Imagenes/circ2ampe50hz.jpeg">
+
+- 100 Hz
+
+<img src="Imagenes/circ2ampe100hz.jpeg">
+
+- 500 Hz
+
+<img src="Imagenes/circ2ampe500hz.jpeg">
+
+- 1000 Hz
+
+<img src="Imagenes/circ2ampe1000hz.jpeg">
+
 ## Resultados
 
 <img src="Imagenes/tabla2.jpg">
@@ -213,6 +239,10 @@ Figura 2.
 <img src="Imagenes/tabla3.jpg">
 
 *Tabla III. Resultados obtenidos del voltaje con el Multímetro*
+
+<img src="Imagenes/tabla4.jpg">
+
+*Tabla III. Resultados obtenidos del amperaje con el Multímetro*
 
 ***Análisis de los resultados***
 
