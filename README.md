@@ -218,6 +218,8 @@ Figura 2.
 
 - ***¿Cómo se comportan la bobina y el capacitor en corriente continua (ceroHz)?***
 
+Los capacitadores en circuitos de corriente continua pasan por dos fases, llamadas fase directa y fase de corriente continua. En fase estacionaria, el fenómeno descrito en la curva de carga del condensador continúa hasta que el condensador se estabiliza y está en fase continua. Durante este tiempo, el amperaje fluye a través del condensador. Cuando llega a cero, se considera "ramificado" en el circuito. En cambio en un inductor, la corriente constante significa que no hay caída de voltaje entre los terminales, por lo que simplemente se interpreta como un "cable" en el circuito.
+
 - ***¿Cómo se comportan la bobina y el capacitor en corriente alterna?***
 
 La bobina y el capacitor se oponen inmediato del voltaje y la corriente, generando un voltaje o corriente para producir dicho efecto.
